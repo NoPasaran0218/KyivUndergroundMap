@@ -1,0 +1,16 @@
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\bin\Debug\testTask1.exe.config
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\bin\Debug\testTask1.exe
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\bin\Debug\testTask1.pdb
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\testTask1.csprojResolveAssemblyReference.cache
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\MainWindow.g.cs
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\App.g.cs
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\testTask1_MarkupCompile.cache
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\testTask1_MarkupCompile.lref
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\MainWindow.baml
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\testTask1.g.resources
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\testTask1.Properties.Resources.resources
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\testTask1.csproj.GenerateResource.Cache
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\testTask1.exe
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\obj\Debug\testTask1.pdb
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\bin\Debug\Metro.BL.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\testTask1\bin\Debug\Metro.BL.pdb

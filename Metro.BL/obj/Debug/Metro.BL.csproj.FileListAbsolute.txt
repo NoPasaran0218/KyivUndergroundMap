@@ -1,0 +1,5 @@
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\Metro.BL\bin\Debug\Metro.BL.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\Metro.BL\bin\Debug\Metro.BL.pdb
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\Metro.BL\obj\Debug\Metro.BL.csprojResolveAssemblyReference.cache
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\Metro.BL\obj\Debug\Metro.BL.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\one_time\testTask1\Metro.BL\obj\Debug\Metro.BL.pdb

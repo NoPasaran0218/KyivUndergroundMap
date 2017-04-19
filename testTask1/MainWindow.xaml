@@ -1,0 +1,36 @@
+﻿<Window x:Class="testTask1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:testTask1"
+        mc:Ignorable="d"
+        Title="Map for Kyiv Underground" Height="623" Width="600" MinHeight="523" MinWidth="500" SizeChanged="Window_SizeChanged" Loaded="Window_Loaded" x:Name="_Window">
+    <Window.Resources>
+    </Window.Resources>
+    <Grid x:Name="grid" MinWidth="500" MinHeight="500" Background="Aquamarine">
+        <Image x:Name="mainBg" Source="/Resources/MapBackground.png" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+        <Image Source="/Resources/startFlag.png" Stretch="None" VerticalAlignment="Top" HorizontalAlignment="Left" x:Name="StartFlag" Margin="-50 -50 0 0"></Image>
+        <Image Source="/Resources/finishFlag.png" Stretch="None" VerticalAlignment="Top" HorizontalAlignment="Left" x:Name="FinishFlag" Margin="-50 -50 0 0"></Image>
+        <TextBlock Height="20" Width="auto" Text="Please, Use Left Mouse Button For Choose Start Station" FontSize="12" FontStyle="Normal" VerticalAlignment="Top" Margin="5 10 0 0"></TextBlock>
+        <TextBlock Height="20" Width="auto" Text="And Left Mouse Button For Choose Finish Station" FontSize="12" FontStyle="Normal" VerticalAlignment="Top" Margin="5 30 0 0"></TextBlock>
+        <Canvas x:Name="BackgroundCanvas"
+        Background="Transparent"
+        PreviewMouseDown="BackgroundCanvas_PreviewMouseDown">
+            <Ellipse
+             Width="13"
+             Height="13"
+             x:Name="circ">
+                <Ellipse.Fill>
+                    <RadialGradientBrush RadiusX="1" RadiusY="1" GradientOrigin="0.3, 0.3">
+                        <GradientStop Color="Yellow" Offset="0" />
+                        <GradientStop Color="Black" Offset="1" />
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+                <Ellipse.RenderTransform>
+                    <TranslateTransform X="-2" Y="-7" />
+                </Ellipse.RenderTransform>
+            </Ellipse>
+        </Canvas>
+    </Grid>
+</Window>
